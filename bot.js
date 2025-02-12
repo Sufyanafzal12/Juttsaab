@@ -1,6 +1,6 @@
 const { executeOneOperationOk, Logger, accpetedFormats, _sleep } = require('../../index');
 const { Telegraf } = require('telegraf');
-const { telegramBotToken, adminNamesForTelegramBot, authorisedUserForTelegramBot } = require('../../config');
+const { 7849045399:AAEZl-1ap2kb3cVuAqxQFSGFONEL58pki5U, Sufyan1111112, @Sufyan1111112 } = require('../../config');
 const { messageHandler } = require('./message');
 
 class TelegramBot extends Telegraf {
